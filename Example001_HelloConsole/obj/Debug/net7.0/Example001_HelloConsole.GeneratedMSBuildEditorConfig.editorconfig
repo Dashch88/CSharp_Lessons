@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example001_HelloConsole
-build_property.ProjectDir = /Users/dashch/GeekBrains/CSharp/Lesson_1/Examples/Example001_HelloConsole/
+build_property.ProjectDir = /Users/dashch/GeekBrains/3_CSharp/CSharp_Lesson_1/Examples/Example001_HelloConsole/
